@@ -18,3 +18,21 @@ Javascript 是最近两年学习和看的最多的内容，很多代码也都在
 6. 桌面/移动端应用框架和搭建
 7. 有用/用过的库
 8. 网上资料/链接
+
+## Javascript 基础，语言和发展
+
+首先推荐基础教程，[《Javascript 教程》](https://wangdoc.com/javascript)。这个教程写的很好，唯一的缺点应该就是太详细了。它的代码仓库在这里(https://github.com/wangdoc/javascript-tutorial)。这个教程以 ES5 和 DOM 规范为基础，另外一个后续教程提供了 ES6 的新增语法，[《ES6 标准入门教程》](https://wangdoc.com/es6/)。这两本书可以能够提供 Javascript 语言基础教学的全部了，如果能够完整掌握，语法方面以及大部分的应用场景下都不应该存在什么问题了。
+
+我自己的学习已经公司内的系列讲座中使用了这两本书的很多内容和例子，获益匪浅。在整个学习和讲座过程以及后续一些使用过程中，有这样几个部分会是掌握上需要特别关注的地方
+
+-   基础库和提供的方法使用，相当于查手册
+-   异步操作，任何语言遇到这个都需要一定的理解，Javascript 在这个方面目前看主要是掌握 Promise 和 Async，回掉方法因为历史原因也必须了解
+-   模块，因为 Node.js 的重要性，造成两种模块标准使用时有点纠结
+-   Babel，语法兼容你必须面对的工具
+-   Node.js，这是 javascript 能够变得这么强大和广泛使用的一个基础
+
+下面整理几个经常可用来查资料的信息网站
+
+-   [MDN Javascript 技术部分](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) 这里有一些指南和教程，也有完整的 Javascript 参考文档库；MDN 提供更多和网络，浏览器相关的技术及资料库，都可以参考学习
+-   [ECMAScript 最新规范](https://github.com/tc39/ecma262)
+-
