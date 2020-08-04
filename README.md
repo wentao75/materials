@@ -7,5 +7,5 @@
 所有学习过的内容都可能在这里留下备份和资料
 
 1. [Javascript](./javascript/README.md)
-2. Vue3
-3. vite
+2. Vue3 新特性
+3. [vite](./VUE3/vite.md)
