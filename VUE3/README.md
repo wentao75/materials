@@ -65,7 +65,7 @@ Composition API 以补丁方式引入到 2.x 中，在 2.x 中混用时，和 3.
 
 ## Composition API
 
-这个部分应该是 Vue3 当中对于使用者最大的特性，下面单独说明。
+这个部分应该是 Vue3 当中对于使用者最大的新增特性，[单独说明](./CompositionAPI.md)。
 
 ## 取消 Vue 全局变量
 
